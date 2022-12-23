@@ -47,7 +47,7 @@
     - ViewPager2 https://developer.android.com/reference/kotlin/androidx/viewpager2/widget/ViewPager2
   - Spinner https://developer.android.com/develop/ui/views/components/spinner
 - CustomView
-  - Canvas
+  - Canvas https://developer.android.com/reference/android/graphics/Canvas?hl=en
   - Bitmap
   - Paint
   
